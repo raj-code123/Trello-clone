@@ -3,6 +3,10 @@
 
 This is a Trello clone web application built using React, Tailwind CSS, Firebase, and the React Beautiful DnD library. It allows users to create boards, lists, and cards, and organize their tasks in a visually appealing and efficient way. The app also supports drag-and-drop functionality for easy task management.
 
+## deploy
+
+[Visit Now](https://ecommerce-codewithzosh.vercel.app/) 🚀
+
 
 ## Features
 

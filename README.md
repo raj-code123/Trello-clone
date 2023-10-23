@@ -5,7 +5,7 @@ This is a Trello clone web application built using React, Tailwind CSS, Firebase
 
 ## deploy
 
-[Visit Now](https://ecommerce-codewithzosh.vercel.app/) 🚀
+[Visit Now](https://65360e1d9c63b3490e359184--starlit-daffodil-eb4a39.netlify.app/) 🚀
 
 
 ## Features

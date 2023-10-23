@@ -1,8 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Trello Clone App
 
-Currently, two official plugins are available:
+This is a Trello clone web application built using React, Tailwind CSS, Firebase, and the React Beautiful DnD library. It allows users to create boards, lists, and cards, and organize their tasks in a visually appealing and efficient way. The app also supports drag-and-drop functionality for easy task management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Features
+
+- Board Management: Create and manage multiple boards.
+- List Creation: Add lists to your boards to categorize tasks.
+- Card Creation: Create and manage cards within lists.
+- Drag and Drop: Use the drag-and-drop feature to reorder and move cards between lists and boards.
+- Light/dark mode toggle
+
+
+## Tech Stack
+
+**Client:** React, Redux, Tailwind CSS,React Beautiful DnD
+
+**Server:** Firebase
+
+
+## Installation
+
+Install Trello-clone with npm
+
+```bash
+  npm install 
+  npm run dev
+```
+    

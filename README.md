@@ -28,4 +28,9 @@ Install Trello-clone with npm
   npm install 
   npm run dev
 ```
-    
+
+## Screenshots
+
+ ![dark-mode](https://github.com/raj-code123/Trello-clone/assets/61547737/9abb976c-67e6-4c78-bd1d-ca9e27972907)
+
+![Trello-Clone](https://github.com/raj-code123/Trello-clone/assets/61547737/02d5246d-bfc0-4120-86ce-ddfcfe090c31)
